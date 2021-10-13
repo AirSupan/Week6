@@ -1,0 +1,23 @@
+/* 0,0,2,0 */
+.outer{
+    color: rgb(252, 167, 136);
+}
+
+/* 0,0,1,0 */
+.inner{
+    color: rgb(255, 183, 183);
+}
+
+/* 0,1,0,0 */
+#unique{
+    color: rgb(204, 166, 240);
+}
+
+/* 0,0,0,2 */
+h1, h2{
+    font-size: large;
+}
+/* 0,1,1,1 */
+#unique .inner h2{
+    font-size: large;
+}

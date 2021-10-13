@@ -1,0 +1,20 @@
+*{
+    font-size: 60px;
+}
+#box1{
+    background-color: rgb(14, 187, 255);
+    width: 300px;
+    padding: 30px;
+    border: 10px solid rgb(247, 166, 243);
+}
+
+/* width = total size */
+/* (300px - 60 - 20) */
+/* 220px + 60px + 20px = 300px.) */
+#box2{
+    background-color: rgb(255, 181, 121);
+    width: 300px;
+    padding: 30px;
+    border: 10px solid rgb(240, 229, 138);
+    box-sizing: border-box;
+}
